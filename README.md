@@ -1,13 +1,10 @@
 <p align="center">
-    <img src="https://github.com/Macrohoo/Marhoo-Git/blob/master/IMG%E8%B5%84%E6%BA%90/yianky.png?raw=true" alt="yianky" width="600" >
+    <img src="https://github.com/Macrohoo/Marhoo-Git/blob/master/IMG%E8%B5%84%E6%BA%90/yianky.png?raw=true" alt="yianky" width="500" >
 </p>
 
 <a href="https://doc.mboke.top" target="_blank">
     <p align="center">
-        <h3 align="center">Yianky Browser</h3>
-        <h6 align="center">
-            <img src="https://github.com/Macrohoo/Marhoo-Git/blob/master/IMG%E8%B5%84%E6%BA%90/yianky-icon.png?raw=true" alt="Yianky" width="60" >
-        </h6>
+        Yianky Browser
     </p>
 </a>
 
